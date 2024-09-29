@@ -29,3 +29,9 @@ footer {
     margin-top: 20px;
     font-size: 0.9em;
 }
+// Add CSS for dark mode in your styles.css
+body.dark-mode
+{
+    background-color: #333;
+    color: white;
+}
