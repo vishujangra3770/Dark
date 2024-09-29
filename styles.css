@@ -2,9 +2,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
-    background-color: #f4f4f4;
-}
-
+    background-color: #333;
+    color: white;
 header {
     text-align: center;
     background-color: #333;
@@ -28,10 +27,4 @@ footer {
     text-align: center;
     margin-top: 20px;
     font-size: 0.9em;
-}
-// Add CSS for dark mode in your styles.css
-body.dark-mode
-{
-    background-color: #333;
-    color: white;
 }
